@@ -1,0 +1,163 @@
+.nav-bar{
+    height:60px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+img{
+    height:60px;
+    width:100px;
+    margin-left: 2px;
+}
+
+    
+
+.search{
+    display: inline-block;
+    
+}
+.box{
+    width:600px
+}
+.flag{
+    height:15px;
+    width:15px;
+}
+
+
+
+.nav{
+    height:40px;
+    background-color: #222f3d;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    justify-content: space-around;
+    
+    
+}
+.options{
+    
+    display: flex;
+    
+    margin-left: 15px;
+    align-items: center;
+    width: 50%;
+    height: 40px;
+    justify-content: space-around;
+   
+    
+}
+.carouselimg{
+    width:100%;
+    height:400px;
+}
+.msg{
+    
+    color: black;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+.mainbox{
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+    margin-top: 20px;
+}
+.boxes{
+    height:400px;
+    width:23%;
+   
+    background-color: white;
+    
+}
+.boxmsg{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.boximg{
+    margin-left: 20px;
+    height: 100px;
+    width: 150px;
+}
+.boxbutton{
+    background-color: red;
+    color:white;
+    margin-left: 010px;
+}
+.maincard{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+}
+.secondboximg{
+    height: 300px;
+    width:300px;
+   
+   
+    padding: 20px 0px 15px;
+    margin-left: 4%;
+}
+.carouselimg2{
+    width:100%;
+    height:200px;
+}
+.signin{
+    
+    align-items: center;
+    margin-left: 40%;
+}
+.signup{
+    margin-left: 43%;
+    width: 100px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bolder;
+}
+.footer{
+    height:50px;
+    width:100%;
+    background-color: #222f3d;
+    align-items: center;
+}
+
+
+
+.customer-footer{
+    background-color: #232f3e;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.cust-first{
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+}
+.cust-Second{
+    color: white;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+.top{
+    
+    background-color: #232f3e;
+    
+}
+.anchor{
+    text-align: center;
+}
